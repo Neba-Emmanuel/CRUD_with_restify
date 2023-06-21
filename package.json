@@ -1,0 +1,17 @@
+{
+  "name": "restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.1.1",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^11.1.0"
+  }
+}
